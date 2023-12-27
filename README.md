@@ -7,7 +7,7 @@ We invent a novel price discovery mechanism, namely, **Elastic PLOB** to tailor 
 
 Octan proposes a novel AMM model, where LPs allocate their liquidity into the pool according to a bonding curve that mimics the general shape of a traditional limit orderbook (LOB). We introduce a novel concept, *Elastic Factor*, to allow the liquidity concentration of the AMM to be automatically adjusted according to the relative trading size. This elasticity ensures unbounded liquidity, thus the pool never runs out of liquidity regardless of the trading size. Our general Elastic model covers the special case of the constant-product market making model $xy=k$. More importantly, it opens a new door to create arbitrary AMM with customized local orderbook shape around the market price as well as tailored liquidity concentration.
 
-The major contribution of this model is that, when the AMM is locally V-shaped, both impermanent loss (IL) and loss-versus-rebalancing (LVR) in this model asymptotically vanish when the trading frequency is high or, equivalently when the pool size is large. Therefore, the pool size will behave exactly like a rebalancing portfolio in the geometric Brownians motion model.
+The major contribution of this model is that, when the AMM is locally V-shaped, both impermanent loss (IL) and loss-versus-rebalancing (LVR) in this model asymptotically vanish when the trading frequency is high or, equivalently when the pool size is large. Therefore, the pool size will behave exactly like a rebalancing portfolio in the geometric Brownian motion model.
 
 Some other novelties of the model are as follows.
 - Possesses desired statistical properties of the traditional LOB model, for instance locally V-shaped (or square root price impact) and price reversals.
