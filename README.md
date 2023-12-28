@@ -11,7 +11,7 @@ The major contribution of this model is that, when the AMM is locally V-shaped, 
 
 Some other novelties of the model are as follows.
 - Possesses desired statistical properties of the traditional LOB model, for instance locally V-shaped (or square root price impact) and price reversals.
-- Offers much higher concentrated liquidity than Uniswap V2. To be more precise, its capital efficiency is about 400 times higher than that of the Uniswap V2 model at typical $2\%$ around the mid price.
+- Offers much higher concentrated liquidity than Uniswap V2. To be more precise, its capital efficiency is about 400 times higher than that of the Uniswap V2 model at typical 2% around the mid price.
 - Opens a new door for flexible market making (MM) strategies for LPs, thus transforming the MM problem to a multi-funds asset allocation problem. 
 
 Note: loss-versus-rebalancing (LVR) is an important problem among among Nakamoto challenges proposed by A16Z. Octan Elastic model is a response to the problem.
