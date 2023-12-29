@@ -14,7 +14,10 @@ Some other novelties of the model are as follows.
 - Offers much higher concentrated liquidity than Uniswap V2. To be more precise, its capital efficiency is about 400 times higher than that of the Uniswap V2 model at typical 2% around the mid price.
 - Opens a new door for flexible market making (MM) strategies for LPs, thus transforming the MM problem to a multi-funds asset allocation problem. 
 
-Note: loss-versus-rebalancing (LVR) is an important problem among among Nakamoto challenges proposed by A16Z. Octan Elastic model is a response to the problem.
+Note: loss-versus-rebalancing (LVR) is an important problem among among [Nakamoto challenges](https://a16zcrypto.com/posts/announcement/introducing-the-nakamoto-challenge-addressing-the-toughest-problems-in-crypto/) proposed by A16Z. Octan Elastic model is a response to the problem.
+## Octan Finance: market proposition & USP
+
+![image](https://github.com/Octan-Labs/New-AMM/assets/45308207/382646d3-3f15-4266-9f5f-cc5c53dea54b)
 
 This repo is in development.
 Please stay tuned for our updates. Contact Telegram: @paven86  
